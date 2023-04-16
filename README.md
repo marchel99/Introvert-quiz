@@ -1,6 +1,6 @@
 # Introvert-quiz
 
-This is a C++ OOP program that determines whether you are an introvert or an extravert based on a series of questions. The program uses a file called "file.txt" where you can add questions line by line.
+This is my first C++ OOP program and I am still learning. a C++ OOP program that determines whether you are an introvert or an extravert based on a series of questions. The program uses a file called "file.txt" where you can add questions line by line.
 
 To run the program, simply execute the "main.exe" file. You will be presented with a series of questions, and for each question, you can choose from five options: strongly agree, agree, don't know, disagree, and strongly disagree.
 
